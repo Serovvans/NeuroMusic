@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="icons">
+    <file alias="trim">scissors.png</file>
+    <file alias="copy">copy.png</file>
+    <file alias="paste">clipboard.png</file>
+    <file alias="search-">search--.png</file>
+    <file alias="search+">search-x.png</file>
+    <file alias="volume-none">volume-x.png</file>
+    <file alias="volume">volume-2.png</file>
+    <file alias="speed">gauge.png</file>
+    <file alias="pause">pause.png</file>
+    <file alias="play">play.png</file>
+    <file alias="next">arrow-right.png</file>
+    <file alias="back">arrow-left.png</file>
+    <file alias="logo">logo.png</file>
+    <file alias="openIcon">Vector.png</file>
+    <file alias="newIcon">plus.png</file>
+    <file alias="docIcon">book-open-text.png</file>
+  </qresource>
+</RCC>
