@@ -5,6 +5,7 @@ from app.view.resources_rc import *
 
 
 class MainWindow(QMainWindow):
+    """Класс отображения окна редактора, интерфейс подгружается из файла"""
     def __init__(self):
         super().__init__()
         

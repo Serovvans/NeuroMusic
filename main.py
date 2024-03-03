@@ -7,7 +7,12 @@ from app.view.main_window import MainWindow
 from PyQt5.QtWidgets import QApplication
 
 
-def setup():
+def setup() -> StartController:
+    """Настраивает зависимости и инициализирует контроллерв
+
+    Returns:
+        StartController: Контроллер стартового окна приложения
+    """
     main_window = MainWindow()
     hello_window = StartWindow()
     
