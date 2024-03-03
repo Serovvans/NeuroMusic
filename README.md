@@ -13,7 +13,7 @@
 2. **Создайте и активируйте виртуальное окружение Anaconda в дириктории проекта:**
 
     ```bash
-    conda create --name .conda python=3.9
+    conda create --name .conda python=3.11
     conda activate .conda
     ```
 
